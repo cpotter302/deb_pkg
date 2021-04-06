@@ -1,8 +1,9 @@
 Package: hello
 Version: 1.0
 Architecture: all
+Essential: no
 Priority: optional
-Depends: 
+Depends: less,parted,rsync
 Maintainer: Carlo Pötter
 Description: Sample description for this debian package project
 
