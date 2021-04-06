@@ -1,0 +1,8 @@
+Package: hello
+Version: 1.0
+Architecture: all
+Priority: optional
+Depends: 
+Maintainer: Carlo Pötter
+Description: Sample description for this debian package project
+
